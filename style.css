@@ -1,0 +1,44 @@
+html {
+  background-color: grey;
+}
+#main {
+  background-color: white;
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+#img-div {
+  text-align: center;
+  margin: 0;
+  /* background-color: green; */
+}
+
+figure {
+  display: block;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#title,
+#sub-title,
+#tribute-title,
+#tribute-outro {
+  text-align: center;
+}
+
+#tribute-info {
+  margin: 3rem 0;
+}
+ul {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+li {
+  padding: 0.5rem 0;
+}
